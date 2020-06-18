@@ -1,0 +1,32 @@
+[gd_scene format=2]
+
+[node name="Panel" type="Panel"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="."]
+margin_left = 480.0
+margin_top = 368.0
+margin_right = 548.0
+margin_bottom = 388.0
+text = "continue"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 464.0
+margin_top = 296.0
+margin_right = 559.0
+margin_bottom = 344.0
+text = "daBa
+
+Softworks"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
